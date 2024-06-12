@@ -12,6 +12,7 @@ requests = "^2.32.3"
 pytest = "^8.2.2"
 requests-mock = "^1.12.1"
 beautifulsoup4 = "^4.12.3"
+ruff = "^0.4.8"
 
 
 [build-system]
